@@ -1,0 +1,12 @@
+https://leaverou.github.io/css3patterns/#honeycomb   -- for css background
+https://vincentgarreau.com/particles.js/
+https://icons8.com/icons/set/brain    -- for icon
+https://www.npmjs.com/package/react-tilt   -- for tilt logo
+
+part 2
+
+https://clarifai.com/developer/guide/#getting-started --for image detection
+https://clarifai.com/apps/8c67318718c44610adb94e5e145d6c2e ---my key api
+https://github.com/Clarifai/clarifai-javascript/blob/master/src/index.js --github for role models
+http://tachyons.io/components/forms/sign-in/index.html  -- signIn form
+http://tachyons.io/components/cards/product-card/index.html --- rank for sign in form
